@@ -1,4 +1,4 @@
-module github.com/dilfish/awdb-golang/awdb-golang
+module github.com/dreamChou24/awdb-golang/awdb-golang
 
 go 1.18
 
